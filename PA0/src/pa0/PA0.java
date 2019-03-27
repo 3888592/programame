@@ -16,7 +16,7 @@ public class PA0 {
     }
 //jugador1
     private static String leerEntrada() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        throw new UnsupportedOperationException("LO NUESTRO FUE UN SECRETO"); //To change body of generated methods, choose Tools | Templates.
     }
 //jugador2
     private static boolean finalDelJuego() {
